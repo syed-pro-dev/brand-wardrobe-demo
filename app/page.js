@@ -56,7 +56,7 @@ const PRODUCTS = [
     price: 1699,
     tag: "Hot Drop",
     sizes: ["2-3 Y", "4-5 Y", "6-7 Y", "8-9 Y"],
-    image: "https://images.unsplash.com/photo-1471286174890-9c112ffca56a?auto=format&fit=crop&w=700&q=80",
+    image: "https://i.ibb.co/jvnQXJY0/75b437ae-ba8c-48d0-ac90-e9273f4202fa-webp.webp",
     description: "Modern street baggy cut, relaxed waistband."
   },
   {
